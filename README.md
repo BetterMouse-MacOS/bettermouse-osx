@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://gemok-romotoy.github.io/.github/bettermouse-mac">  
+<a href="https://bettermouse-macos.github.io/.github/bettermouse-mac">  
 <img src="https://img.shields.io/badge/🖱️_Get_BetterMouse_for_Mac-darkgreen?style=for-the-badge&logo=apple" alt="Get BetterMouse for Mac">  
 </a>  
 </div>  
